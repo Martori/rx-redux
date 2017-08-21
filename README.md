@@ -8,7 +8,7 @@ repositories {
 }
 
 dependencies {
-	compile "com.github.martori:rx-redux:0.1.0"
+	compile "com.github.martori:rx-redux:0.1.1"
 }
 ```
 
