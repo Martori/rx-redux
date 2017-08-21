@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/Martori/rx-redux.svg?branch=master)](https://travis-ci.org/Martori/rx-redux) [![GitHub release](https://img.shields.io/github/release/martori/rx-redux.svg)](https://github.com/Martori/rx-redux/releases/latest) [![license](https://img.shields.io/github/license/martori/rx-redux.svg)](https://github.com/Martori/rx-redux/blob/master/LICENSE)
 # rx-redux
 A Redux implementation for Java made with [RxJava v2](https://github.com/ReactiveX/RxJava)
 
