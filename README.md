@@ -28,7 +28,7 @@ public class State{
 ### Define a class for your actions
 ```java
 public enum Action{
-	INC,
+    INC,
     DEC
 }
 ```
@@ -75,7 +75,7 @@ states.map(state -> state.toString())
 
 ## Consider using
  * [Retrolambda](https://github.com/evant/gradle-retrolambda) To hava lambdas available in Java 6, 7 and early Android versions
- * [Anvil](https://github.com/zserge/anvil): A React-like library for Android, to make easy mobile 
+ * [Anvil](https://github.com/zserge/anvil): A React-like library for Android, to make easy mobile reactive apps
  * [Immutables](https://immutables.github.io/): A Java annotation processors to generate simple, safe and consistent value objects, to create your immutable states
 
 ## License
